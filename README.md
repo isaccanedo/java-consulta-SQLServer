@@ -1,2 +1,2 @@
 # JAVA SQLServer
-🏆 Consulta ao Database SQLServer através do Java Swing 
+🏆 Consulta ao Database SQLServer através do Java Swing.
